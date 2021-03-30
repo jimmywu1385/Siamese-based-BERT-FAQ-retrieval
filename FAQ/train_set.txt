@@ -1,0 +1,750 @@
+115 Are there online language interpreters I could use to test my programming skills?
+121 Moving google contacts from my account ot a new one.
+124 Do google docs support the longer style dash (em dash).
+88 How do I make sure that people first as for my permission before associating me with stuff on facebook?
+92 I need to download a folder containing lots of files on Dropbox, can I just download the folder using the web interface?
+73 Does twitter support sending e-mail to followers when a user tweets something.
+103 I'd like a customizable application online for playing my favourite songs?
+38 I know the exact time when I received a message, can I include this into gmail search.
+85 Is it possible to untrust a computer that was included into google 2 factor authentication.
+61 Sorting data in google spreadsheets.
+10 Is there a way for facebook to be aware that you are logged into your gmail account?
+3 Using a strike through font in gmail.
+104 Can I find out what dropbox is currently syncing.
+51 Can I somehow mask an exe file so that gmail doesn't remove it from my mail.
+122 Having more than one destination in google maps.
+19 Is it possible to undo archiving a gmail message?
+65 Is it possible to display how much KB / MB my gmails have, I could really use this information.
+82 Accessing the USA version of google and not one on my local country domain.
+58 To a college student, are there any significant advantages of MS Office over google docs?
+35 How can i produce a link that will take someone to a particular time in a vimeo video.
+80 Finding out the oldest message from a person.
+94 Filtering google calendar notifications.
+80 Finding the first ever mail that given person has sent to you on gmail.
+19 What happens to archived mails in gmail, is it possible to retrieve them?
+113 Google documents performs saving far too much, I'd like to stop that.
+52 I really don't want to register on quora, but I can't see all the answers, is there a way around this?
+26 Getting in touch with a user on github,
+64 Keeping my privacy with respect to things i post on facebook.
+3 How can I make letters in gmail crossed out.
+62 I'd like to know the exact date when i started my subscription to a youtube channel. Is this possible?
+104 How can I see which files are currently being synced?
+77 I have multiple addresses in gmail, I'd like my default reply address be the same one that was on the mail I'm replying to, is this supported in gmail?
+46 I find the default twenty mails I get from gmail search to small, how can I increase it?
+123 I'd like to know how tight dropbox' security is against attackers?
+27 How to avoid downloading attachments if I want to attach them to antother mail im writing.
+80 How can I find out the oldest (first) mail i received from someone.
+4 Referencing a cell from a different google spreadsheet document.
+98 How could I switch a video on youtube with a new one?
+34 I want to know who stopped being my friend on fb.
+79 How does archiving work on gmail?
+17 I'd like to have a logical expression on several conditions as my gmail filter, is this supported?
+92 The dropbox website is providing a way to download files, but I need more than files, I need an entire directory. There must be a way to do this?
+50 I'd like to remove every mail I ever got in gmail.
+86 I wrote some stuff in my github feed that i'd like to delete, what are my options?
+108 How do I transfer all my private msg's from facebook to my computer?
+6 How do I make it so that the formatting is ignored when copying from gmail.
+115 Web sites for practicing coding onilne.
+29 I do not want google drive to display the files inside my zip files but to just give a download option, is there a way to achieve this?
+121 Is there an option in the interface to switch some of my contacts from one google account to another? I only want this for some contacts not all.
+38 I'd like to constrain my mail search in gmail to a particular time period. Is this possible?
+78 Is a google account a neccessary condition for joining google hangouts?
+71 How do I specify that some mails i send through gmail are time sensitive?
+72 Limiting the scope of a gmail search to archived mail exclusively.
+50 I'm very low on space on gmail so I want to mass delete my mails, is this possible?
+29 Disabling view of zip files on gd and having them downloaded instead.
+62 Is it possible to get the time of when i first subscribed to a particular youtube channel.
+73 I'd like to get e-mail notifications when specific people write posts on twitter.
+43 Can I make gmail search ignore some of my inboxes.
+122 I have some intermediate points on my google maps route where I need to make some pickups, can I somehow force my route to go through the points?
+46 The number of mails displayed in gmail search is not enough, I want to make it bigger.
+109 What are my options for seeing who can access my data that I've got in a gd folder?
+101 In what online tool can I draw simple diagrams.
+10 How can facebook detect whether or not you are logged in in gmail.
+109 How can I tell who can access my files and folders on gd.
+42 Search for unreplied mails in gmail.
+75 I wanna remove Dropbox from a computer I no longer have, what is the best way to do that?
+59 Does github tolerate hosting of commercial pages?
+101 I need an online tool to make a sequence diagram.
+24 How can I discreetly follow someone on twitter (I don't want them to know I'm following them).
+123 Is sensitive data on dropbox secure?
+50 Getting rid of all mails in gmail quickly.
+72 I'd like to filter my mails to see the ones i archived, is this possible in gmail.
+2 How could I introduce new styles to google docs.
+61 Sorting numbers in a column in google spreadsheets?
+112 Are there any online tools for collection management, in particular books.
+66 Is it possible to have separate filters applied for each individual user looking at a google spreadsheet?
+5 Can I write google docs using markdown.
+22 Is it possible to delete a list in trello?
+100 Finding a time for a meeting, is there an application online for this?
+78 Is it mandatory to have an account with google in order to chat online via google hangouts.
+72 How can I filter out only archived messages in gmail?
+76 I'd like to link to a given position within my document on google docs, is this possible?
+102 Is there an option to store my favourites and bookmarks information in the cloud so I can access it from various different devices?
+34 Finding out who stopped being my facebook friend.
+96 Making some people in my google chat list invisible.
+67 What's the easiest way to add references to my google documents?
+79 The final destination of archived mails in gmail.
+41 Traffic analysis for a repository i have on github.
+103 Can I listen to music directly online, can you tell me some good sites to do this?
+53 Handling tasks that depend on each other in Trello.
+107 Is there a website where a crowd of translators could work together?
+28 I'd like to sequentially view all videos a specific youtube user has published.
+26 Is there a possibility to send messages over github.
+112 I have a big collection of novels, is there a web app for managing it?
+118 I'd like to put some text as a caption to a google docs picture.
+45 I'd like to filter my search on google drive to include only files from a directory im interested in.
+18 Embedding google spreadsheets into google documents.
+80 Searching for the first message someone sent me.
+89 I require a application for document editing such as google docs but hosted on my company infrastructure instead of the cloud.
+33 Copying the query string on google doesnt give same results on all computers.
+63 Can I have both my and my sisters dropbox account simultaneously on our family computer.
+123 Does Dropbox have good security against attackers?
+52 I want to see all the answers of a quora question but i do not want to register, is there a solution?
+20 How could I break down a large gmail thread into several smaller ones that would be easier to manage.
+1 Deleting FB acc.
+21 I keep finding sites that just copy content from elsewhere, can I block them from my search results?
+73 Getting e-mail notices when people tweet specific hash tags?
+56 Is it possible to extract a compilation of e-mail addresses for all mails I've ever received on gmail.
+6 Copying raw text (no formatting) from gmail.
+51 Gmail will not let me send an exe file via mail, is there a workaround?
+5 I really like markdown, can I use it in google documents.
+33 I want to send a google search to my friend so he can see my results, how can I do this?
+118 How do I insert a caption to an image in google docs?
+105 Can I somehow download all my chats from google as text files?
+97 Is there a possibility to identify whether a mail i've sent has been opened and read or not?
+96 I need to make some of the people I've chatted with disappear from my contacts list in google chat.
+91 Is it possible to share a facebook photo album with people who are not registered on facebook?
+84 What type of content does google omit from it's indexing procedure?
+107 I'm looking for a social translation web site, is there any on the web?
+0 The &lt;s&gt; tag for font on github markdown doesnt work, is there an alternative?
+58 What would be the downside of using google docs compared to microsoft office?
+107 Internet app for collaboration of a group of translators on a translation task.
+55 Does trello support the concept of marking a card as done?
+72 Searching the mails i put into my archive on gmail.
+36 I hear a lot of good things about wolfram alpha from my friends, what's the big deal?
+25 Can I export my twitter data (tweets and everything) in order to make a backup.
+79 When gmail sends my mails to the archive, what exactly does this mean?
+118 Captioning a photo in google docs.
+44 Can I be part of a google mailing list without a gmail address?
+12 In the case of my death, what would happen to my FB acc.
+8 I have some Python code, can I get it to display as actual code (with colors and all) in google docs.
+1 What is the best way to remove my facebook account?
+21 What would be the best way to ensure that some sites will be ommited from my search results on google.
+97 Once i have sent a mail, is there a mecahnism to know whether it was opened and read?
+16 Can Trello initialize tasks (cards and lists) from a file. My list of tasks is huge and I'd like to generate a file to import into trello.
+95 Putting a time delay on sending a gmail mail.
+80 I'd like to find the first message from a particular person on gmail,
+36 Is there a reason why wolfram alpha is so popular?
+63 Having several Dropbox accounts simultaneously on the same pc.
+117 I'd like to create a message that will be filtered by the google spam filter?
+103 Online radio music apps.
+46 Is there a way to regulate the number of results returned by gmail search?
+24 Discreet way to follow someone on twitter.
+70 Adding subtitles to someone else's youtube video.
+101 I don't need all the complexities of microsoft visio, is there maybe a web app for drawing simple diagrams?
+53 Can I specify on trello that a task should be completed before another starts?
+84 Do you think that Google deliberately leaves out some results, due to either technical difficulties or company interests?
+107 Collaborative translation website.
+48 How do I send fax online?
+14 I need a web site that would convert a picture of my girlfriend into ascii art.
+42 Searching gmail for a mail I did not reply to.
+85 I'd like to quickly remove trust for a computer with google two factor authentication.
+28 Is it possible to view all the videos of a particular user on youtube.
+69 Performing analysis on the file sizes in my dropbox.
+74 I've got a friend who is organising various meetings and events on facebook, can I somehow forward these to my gmail calendar?
+39 Is it possible to include information about when to start into a link to a youtube video.
+8 I'm a programmer and I'd like to get syntax highlihts in google docs, is this possible?
+35 Can you make a link that leads to a specific time point in a vimeo video.
+64 I'd like to hide my posts on fb from people who are not my friends, how do i do this?
+1 Is there a way to make my facebook account disappear completely.
+3 Getting letters in gmail mails to be strikethrough.
+103 Is there a online app for listening radio that is really personalizable?
+15 I'd like to be sure that my trello cards and boards won't be lost, how can I back them up.
+21 Is it possible to ban some sites from being present in my google search results.
+66 When multiple users are looking at a google spreadsheet can they each have different filters?
+34 Finding out who deleted me as their facebook friend.
+86 I need to delete stuff from my activity feed on github.
+102 Transfering bookmarks and favorites to a new computer?
+97 Can I somehow know if my intended recepient has actually read the mail i've sent.
+63 Is it possible to have several Dropbox accounts on my computer?
+84 Does google omit some items from the search results.
+98 Is it possible to replace a video on youtube with a new one?
+104 What is the easiest way to get the files that are being synced at the current time?
+57 Searching gmail to find mails that were sent to noone else but me.
+71 I have a very important mail in gmail can i flag it as urgent?
+47 Exporting gmail mails to my computer for backup purposes.
+76 Linking to a particular page of a google doc.
+38 Finding a mail in gmail that was received on a particular day.
+43 Focusing gmail search on a particular inbox (i have several).
+84 What are the limitations of google's indexing algorithms, does anything get missed?
+27 Can I avoid saving an attachment if I only want to attach it to a new mail?
+5 I'd like to use markdown in google documents, is there a way?
+70 Subtitling a video of another user on youtube.
+120 Measuring distance in google maps?
+65 How do I tell gmail to display the size of mails.
+85 I mistakenly trusted a computer with google two factor authentication, can i somehow undo this?
+120 Is it possible to measure the distance between two points on google maps?
+62 I wanna know when i first subscribed to a channel of my friend on youtube, wheere can i find this information?
+82 Accessing the US version of google from elsewhere.
+45 Is it possible to search within a specific folder on google drive?
+59 Is it allowed to host commercial code on github?
+27 Is there an option to copy the attachment from one mail to another in gmail?
+40 How can I see the parent directory of a google document.
+37 Including information about what sheet to display when linking to a google spreadsheets document.
+116 Creating new contact entries from addresses in to TO or CC parts of my gmail message.
+42 Identifying mails that are not replied.
+71 Adding an urgency flag to a mail in gmail?
+11 Applying a filter to gmail mails that would leave only unlabeled mails.
+61 Ordering data in ascending order in google spreadsheets?
+117 Intentionally constructing a message that will be considered spam by gmail.
+23 I'm sure the text I write into google is what I want word for word, how can I disable google interpreting it differently.
+6 I'd like to omit any formatting from the text I copy from a mail in gmail, is this possible?
+36 Why is wolfram alpha so popular?
+88 How can I stop people from tagging me in photos on facebook without asking me first?
+42 Is it possible to search for mails with no reply in gmail.
+42 Filtering gmail search by whether I replied or not.
+16 Can I import a list of tasks into trello?
+111 What methodology does facebook employ in its search engine for users?
+104 Figuring out which files dropbox is downloading.
+87 Can I find out what public boards are available on trello?
+39 I'd like to link to a specific time point within a youtube video, is this supported?
+102 Can I somehow access my favorites and bookmarks from another computer without having to set everything up again?
+4 Linking together cells from different google spreadsheet documents.
+56 How can I get addresses from which I received mail on gmail.
+82 Is it possible to access the US google from outside the states?
+30 What is the easiest way to paste code into gmail.
+111 What algorithm does facebook use for searching people?
+100 I need to find a suitable time period for a large group to get together, any web tools that might help me?
+71 Is it possible to add an urgent flag to a mail in gmail?
+60 Can I link to a particular location on google maps?
+107 Is there a website where people can translate together?
+26 I need to directly contact a user on github.
+10 Did you know that FB is aware if you are logged into google or not, and can use this information for it's own authentication purposes.
+78 Is a google account needed to use google hangouts?
+58 Are google documents a viable alternative to MS Office?
+55 When a task for a trello card is finished how can I leave it in the current list but specify it's done.
+82 Browsing google from the states and not my localized version.
+52 I refuse to register on Quora, I resent such bullying tactics. Still, is it possible to read all the answers to a question there anyway?
+2 I'd like to add some new styles to my docs on google, how can I do that?
+58 Would you say that google documents is a viable alternative to Microsoft office?
+84 Is there something that is left out of google results?
+114 I need to set ownership for all files an folders in a particular google drive folder, is there a way?
+70 I'd like to add sub title text to a youtube video, but I'm not the owner, is this possible?
+46 When looking for mails in gmail I'd prefer a longer list to be displayed, what can I do?
+91 I want to share a photo album on fb with my friend who is not on facebook. Is this possible?
+108 What is the easiest way to export all my pm's from fb?
+7 Do I have to be online to watch a youtube video or can I somehow download it?
+12 If I die, what will happen to my facebook account?
+17 Combining several filter criteria in gmail filter using logical operators.
+82 How can I enforce google to use the .com domain instead of switching to my local domain every time.
+40 What's the easiest way to get the name of the directory where a particular google document is located.
+81 I'd like to limit who can see what I like on facebook, what are my options?
+116 How can I add a recepient of a mail as a new contact in gmail?
+115 Are there any places online where I could program and get results to see how well I'm doing?
+93 Determine the time of when I commited something to a github repo.
+124 How do I get the m dash in google docs.
+84 Is something missed by google search?
+112 Web app for cataloging books or movies.
+117 I need to make sure that my mail will be marked as spam in gmail, is there way to do this?
+106 Special characters in google search.
+37 Is it possible to link to a particular sheet in google spreadsheets?
+52 I'd like to see the full list of answers for a Quora question but without the hassle of registering, what are my options?
+48 Is it possible to send a fax online?
+119 Email encryption gmail.
+63 Setting up more than one dropbox account on the same computer.
+105 What's the best way to export and download my chat logs from google?
+9 How can I save my email from gmail in plain textual format?
+115 I'd like to see how well I can code, I hear there are websites where you can code online, which are they?
+62 Where can I find information about when my subscription to a channel on youtube started.
+89 I'd like my local server to run something akin to google docs. Is there any software suite for this?
+8 How do I turn on syntax coloring for google docs.
+101 I find myself often having to draw very simple diagrams, is there perhaps a web service that I could use for this?
+48 Can I send faxes over the internet, is it expensive, what are the best services?
+1 How can I delete my facebook account?
+53 Handling tasks which depend on each other in Trello.
+4 I have a cell in a google spreadsheet and I want to link it to another cell from a different google sheet is this possible?
+122 Google maps classic supported as many destinations as I wanted, is this feature gone in the new version?
+51 I'd like to send a windows program as a gmail attachment but I can't because I keep getting an error message.
+48 I don't have a fax-machine but I hear I can turn my computer into one via the internet. How does it work?
+51 Gmail filters out attachments that contain exe files, is there a way around this?
+54 On what prinicple does gmail create threads?
+31 I'd like to have an instance of trello on my company server for all employees to use, is this an option?
+28 How can I play all youtube videos by a specific user.
+99 How does facebook recommend friends?
+25 I'd like to back up everything I ever wrote on twitter, is there an option for this?
+13 I often find myself needing to forward mails in a batch in gmail, can forward them all together in a single click?
+119 Is it possible to encrypt gmail messages?
+80 Locating the earliest message I received from someone.
+23 Making google find the exact string that was typed in.
+60 I want to link to a specific place (like a restaurant) on google maps, how can I do this?
+112 How can I easily keep in order what books and movies I have and catalog them. Maybe some online tool?
+29 I don't want my google drive to open my zip files, i just want people with the link to be able to download the content. What are my options?
+15 I'd like to locally back up all my trello data, how do I do this?
+8 I pasted some C# code into google docs, can i get special coloring for it automatically?
+32 I'd like to search for some keywords within the tweets of a specific person, how is this done?
+29 How do I make links to zip files in google drive download the file and not open it?
+7 Is it possible to store youtube videos to my disk for later offline viewing?
+65 How can I see the size of all my mails in gmail, and possibly sort them?
+100 I often need to find a time which works for everyone in our team to meet, is there a service on the net that might make this more efficient?
+33 I've noticed copying the google search string doesn't give same results for all users, can I somehow share my exact results?
+78 Can my friend join google hangouts if he doesn't have a google account?
+96 I'd like to hide (not remove or block) certain people from google chat.
+71 Why doesn't gmail allow me to assign a special tag to mails in case of urgency.
+10 How is it possible that when resetting password, facebook will detect if you are already logged into your gmail account.
+58 What additional functionality does MS Office offer that google docs is missing?
+11 I'd like to filter all messages in gmail that are missing a label.
+83 Disabling auto play features on youtube.
+124 Is it possible to get the em dash in google docs?
+57 Can gmail single out only those mails where I am the only recipient?
+14 Do you know of any web site that would turn pics to ms-dos ascii art?
+40 Is there an efficient way to get the name of the parent directory for a file on google drive.
+1 I'd like to completely remove my fb account, how do I do this?
+44 Do google groups support e-mails that are not from gmail.
+66 The filtering of data offered by google spreadsheets is the same for all users, can this be changed?
+30 How to most efficiently transfer program code into a gmail mail without losing all the font properties.
+32 I need to find a tweet from a certain someone on twitter, how can I limit my search to this user?
+93 Finding the very first commit to my github repository.
+98 Does youtube allow changing a video once it's been uploaded?
+111 How does facebook generate results when you search for a name?
+3 Does gmail support strikethrough font.
+28 Is it possible to play a sequence of videos published on youtube by the same person?
+120 Is it possible to get the air distance between two points on google maps?
+95 I dont want people to see I was writing mails late at night, I'd like to write them now but set up that they get automatically sent tomorrow morning. Can I do this in gmail?
+8 Is it posible to get code syntax highlighting in google docs.
+77 Is it possible to have a custom reply address in gmail which selects the original recipient address for the mail being replied to.
+91 Is it possible to share a photo album on facebook with people who are not members of FB?
+45 Does google drive support searching within a directory?
+88 Can I make it so that people can not tag me in facebook photos without my permission?
+5 Is it possible to use markdown in google docs.
+122 Multiple destinations in google maps.
+3 How to make text crossed out in gmail?
+89 I'm afraid for my sensitive data in the cloud, is there something similar to google documents that could be self hosted?
+100 Is there any app on the internet that might help me organize meeting times for a group of people?
+69 Is there a way to analyze the file sizes on dropbox.
+61 I'd like to automatically sort some data in google sheets, how do I do it?
+38 Constraining gmail search to a particular date.
+114 What is the best way to recursively set the user who owns files and folders on GD?
+22 Removing a card in trello.
+47 I'd like to archive all my gmail mails locally, what's the easiest way to do that.
+85 Why is there no option to untrust computers that you trusted for google two step authentication. I made a mistake and now I can't fix it.
+98 I need to reupload my video on youtube because I've made a small error, but I't seems it isn't possible??
+11 Filtering gmail mails that are missing a label.
+73 Can I make it so that I get notified by email when a particular user tweets.
+38 Filtering messages on gmail by date.
+31 Is it possible to host my own trello?
+21 The list retreived by google contains some sites I know are not relevant for me, how could I get rid of those?
+78 I have an important meeting in google hangouts, but I don't have a google account, can I still somehow join?
+100 What are my options if I want a simple web app to help me organize and schedule meeting times?
+93 Out of all the commits that I made to my github repo, how can I find the very first one?
+76 I need to link to a given paragraph within a google doc, this paragraf is half way through the document so I don't want my recepient to have to scroll all the way down?
+15 What are my options for exporting my data from trello?
+114 Specifying ownership of file on google drive recursively.
+7 How could I save a youtube video locally?
+52 Can I somehow read all the answers on quora without registering?
+91 How can I allow someone unregistered on facebook to still be able to see my albums and pictures?
+32 Can I constrain my search on tweets to only those of a single user.
+29 Can I produce a link to a zip file on google drive that will not trigger the "view" option but only download?
+3 Strikethrough font in gmail.
+86 A wise guy friend of my wrote some stupid stuff on my github feed, what are my options to get rid of it?
+20 Splitting conversations in gmail.
+3 Gmail provides bold, italic and underline options for text formatting but I can't find how to make it strikethrough.
+96 Making people invisible in the chat list of google hangouts.
+86 I got angry and wrote sam bad stuff about C# in messages about my github activity , can I take it back?
+110 I do not want to get audio notification when someone contacts me on google hangouts, can I turn it off?
+65 I need to know the size of my mails in gmail, where can I display it?
+75 Unlinking a computer from dropbox without direct access.
+45 Limiting google drive search to a particular folder.
+59 I have a small company and we'd like to host our pages on github, is this allowed?
+24 Can I follow somebody on twitter without them knowing.
+89 I like google docs but i don't want my sensitive data in the cloud, is there a similar but self hosted solution?
+106 Searching for keywords that contain special chars on google.
+70 Providing sub titles on a youtube video that was submitted by another user.
+60 What is the easiest way to send a link to some place like a restaurant on google maps?
+122 I'm trying out the new google maps interface, how can I add more than one destination?
+116 I can add to my gmail contact list the person who sent me the mail, can I do the same for the person in CC?
+122 I can't figure out how to add multiple destination points in the new google maps?
+83 I'd like to disable autoplay on youtube.
+90 Could I somehow download the automatically generated subtitles for a youtube video?
+14 I'm fond of ascii art, is there a site where I could convert my favourite images into it?
+61 I'd like to put numbers in a column of google spreadsheets in ascending order, how do I do this?
+57 I'd like to search gmail for mails where I am the only recipient?
+112 I'm a collector, I need some online software to keep track of all the items in my collections, is there any?
+14 Are there any webapps to create ascii art?
+106 Is it true that google completely ignores all punctuation?
+80 Finding the oldest mail that a particular person has sent to me.
+50 How do I completely erase my mails from gmail.
+0 Does github support strikethrough letters?
+87 Viewing all available public trello boards.
+9 Is it possible to export gmail messages to html files?
+18 How can I include charts or tables from spreadsheets into google docs, like I can in regular office?
+11 How do I filter only those mails in gmail that have no label.
+117 Is it possible to manually construct a message that will be marked as spam by gmail?
+9 Can I store locally my mails from gmail (as text or html)?
+98 Is it possible to change a video on youtube with a new improved version?
+14 Does anyone know of any sites where I could build old MS-DOS style character art from images?
+69 I'd like to get an overview of storage space used by my dropbox files.
+90 I'd like to download subtitles automatically generated by Youtube.
+30 I'd like to keep formatting when copying code into my mails in gmail, how can I do this?
+37 I've made a google spreadsheet with a large number of sheets, now i'd like to send a link to a specific one. How do I do it?
+114 Is it possible to recursively set ownership for a gd folder?
+48 I need to send fax over the net, is there any online service to provide this?
+83 Can I disable the youtube feature that plays videos right away after clicking them.
+53 Is it possible to add information about mutual dependencies between tasks on trello.
+40 I often get links to google docs but i can't find an easy way to determine in which folder they are.
+103 What are some good online radio apps?
+89 I require software like google docs but that can be locally hosted on my server.
+39 Is it possible to link to a specific point in a youtube video.
+27 Can I include attachment from a different mail to my current one (without downloading)?
+38 Can I search gmail to find messages sent or received on a particular day.
+91 Sharing a facebook album with people that are not registered facebook users?
+90 Downloading the transcript that youtube generated for a video.
+9 Can I save all my gmail mails in html?
+36 For what purpose is wolfram alpha primarily used?
+123 How safe is my data on dropbox?
+75 Remotely removing a dropbox from a computer.
+12 What does facebook do with accounts of people who have died?
+74 Could I make the callendar on my google account aware of social activities I've arranged via facebook.
+49 Why does youtube cease buffering a video as soon as it's paused?
+23 Is there a way to disable the "did you mean" feature and have google interpret my query literally.
+65 I'd like to add a size column to my gmail, is this possible?
+65 How can I make gmail show me the size in KB or MB of my mails.
+58 What are the pros and cons of using google documents when compared to office?
+71 Can I flag a particular gmail mail as urgent?
+38 Is it possible to filter and search gmail messages by date.
+111 How does facebook rank persons in the result list when i search?
+17 Using several conditions in a gmail filter with logical operations in between.
+81 Is there a privacy option that would conceal my likes from my fb friends?
+92 What is the best way to download a directory from Dropbox.
+81 Is there a way to limit how public my likes on facebook become?
+18 Inserting an entire google spreadsheets in a google docs.
+29 Avoiding zip files on google drive opening on click.
+77 I'd like to modify my sent from adress based on the receiving address of incoming mails (I have more than one mail).
+54 What's the idea behind coupling mails together into threads by gmail?
+47 Is it possible to download all my gmail mails so I can store them somewhere for safekeeping.
+35 Is it possible to attach start time information when sending links to videos on vimeo.
+20 Gmail merged two conversation threads it shouldn't have. How do i split them.
+11 How to filter out mails that are missing a label.
+71 How can I specify via gmail that a certain mail is very urgent?
+67 What is the easiest way to add a bibliography section to my google docs document?
+89 I'd like the same functionality as google docs but hosted locally for security reasons, is there any software that might fulfill these requirements?
+112 I'm looking for an online tool that would allow me to keep track of books.
+70 Adding subtitles on youtube to a vide that is not mine.
+25 How do I backup my twitter history.
+36 What are the advantages of wolfram alpha?
+110 I'd like to mutre the notification sound on google hangouts.
+24 I want to become a follower of a person on twitter but I'd like it to be a secret. Is this possible?
+76 I have a very long document on google docs, I'd like to link to a particular page within the document, is this possible?
+44 I invited to my google group a friend who has a yahoo mail, will this still work?
+64 Is there a way to make sure that only my friends will be able to see my fb posts?
+90 There are automated transcripts for some youtube videos, is there an option to download only the transcripts and not the videos?
+98 Can I switch my youtube video with a new one?
+87 I have a public trello board, can I somehow see what other public boards are available?
+36 What would be the biggest advantage of using the wolfram alpha tool?
+117 I'd like to try out my spam filter on google, what type of message should I send to see if it's working?
+107 I'm looking for a site that would allow people to collaborate on translation tasks?
+9 What are the options for backing up my gmail mails as text files?
+26 I'd like to communicate with an author on github, is this possible?
+110 Disabling notifications for when someone contacts me on GHO.
+56 Can I get a list of mails for all people who sent me mail?
+118 How do I add captions to my pictures in google docs without using tables?
+64 How do I enforce that stuff i posted on facebook will stay private?
+77 Is it possible to make gmail set my reply adress as the on the incoming mail was intended for.
+83 Youtube videos play right away after you click them, can this be disabled?
+112 Is there some web app the would allow me to manage a movie collection?
+14 I have a photo of a friend. He's kind of a geek so I'd like to get an ascii picture version of it. Any sites I could use to do this easily?
+17 Can I use more than one search criterion on gmail, maybe connected with an or or and?
+13 Forwarding several emails simultaneously in gmail.
+78 I'd like to use the hangouts feature of google, does this mean I have to make a google account?
+81 What are the privacy options that could prevent all of my facebook likes to immediately be forwarded to my friends?
+102 How can I transfer my bookmarks from one computer to another?
+66 Different users looking at the same spreadsheet see the same filters, is there a way around this?
+119 Encrypting gmail messages.
+81 I'd like to stop my facebook friends being notified every time I like something, I just want some privacy.
+66 A filter introduced by one user is immediately applied to all other users looking at the same google spreadsheet. How can I avoid this?
+54 How does gmail know which mails to assign to which conversation thread?
+106 Finding a keyword containing special chars in google search.
+17 Can I use conjunctions and disjunctions on search constraints when searching gmail?
+97 How could I know if the mail I sent has been read by the recepient?
+34 I've noticed the number of my friends on facebook decreased, how can I investigate?
+79 What does the archive operation on gmail do?
+90 There are subtitles for some youtube videos that were added in an automated way, is there a method to export only the subtitles for a video?
+23 I need to search for the exact words that i type into google, is there a way to do this?
+52 Can an unregistered user somehow see all the answers on quora?
+65 How can I see how big my mails in gmail are, I need to delete some really large ones.
+72 Performing search on gmail on mails that are in the archive.
+106 How are special characters handled by google search?
+119 I'd like to use encryption when sending gmail messages.
+4 How can I link together cells in google spreadsheets documents.
+58 I'm a college student so I can't really afford full blown office365, are google docs an ok alternative?
+117 Is it possible to intentionally make a message that will be marked as spam in gmail?
+12 What is the procedure with your fb account if you die.
+64 What setting do I have to tweak on facebook to prevent people who are not my friends from seeing my info and posts?
+85 Is there an easy way to remove trust for google's two step auth from a computer?
+100 I need to schedule meetings, can some web app help me?
+98 Is it possible to change one youtube video with another?
+37 Can I include information about which sheet should be opened by default when sending a link to a google spreadsheet with multiple sheets?
+81 Is there a way to prevent me liking something on facebook be instantly public?
+111 What algorithm does facebook use when displaying results of a search by name?
+23 How do I disable the "did you mean" feature and have google search for exactly the same terms i typed in.
+107 Is there a social translation website somewhere?
+39 Specify a custom start point of a youtube video when I link to it.
+27 Is it possible to attach an attachment to another mail without saving it first?
+47 I'm a bit paranoid I'll lose my mails on gmail, can I back them up?
+95 I'd like to set a time when a gmail mail will be sent (instead of right away). Is there an option for this?
+83 Can I somehow stop videos on youtube from automatically playing each time I click on them.
+68 How can I search the web using an image as the query.
+118 Is it possible to add a caption to a google docs image.
+49 I can't get youtube to preload a video, whenever I pause the buffer download stops.
+77 Is it possible to configure gmail so that when I reply to a mail the default "from" adress is the one that the mail was sent to?
+102 Getting my bookmarks and favorites from my old computer when getting a new one.
+9 Is it possible to export gmail messages to text files?
+99 How does the friend finder on fb work?
+7 Storing a youtube video locally for later viewing.
+116 Add one of the recepients of a mail I got to my google contacts?
+23 Can I turn off google spellcheck and synonyms when searching.
+61 Can I order items descendingly in google spreadsheets.
+64 How can I be sure that my posts on facebook will stay private?
+32 Searching within tweet posts of a specific person.
+18 Can I put an entire google spreadsheet as just a part into a large google document?
+49 I't seems that youtube videos do not continue loading unless the video is running?
+22 I accidentally created a card in trello, what is the way to get rid of it?
+10 I've heard facebook can detect if you're logged into your gmail account, is this true?
+117 How could I make a message that will be classified into the spam category by the gmail spam filter?
+60 Is it possible to include location information to a link to google maps?
+1 I want to get rid of my facebook account, how do I do it?
+34 Is it possible to keep track of who removed me from their fb friends list.
+91 Is registering for facebook mandatory to see someone's albums, or is there another way?
+37 Specifying the exact sheet that will be active in a link to google spreadsheets.
+81 How do I stop facebook from sharing what I liked with other people.
+35 Link to a point in a vimeo video.
+83 I want to disable the feature that starts youtube videos immediately after I click on them.
+12 What is the destiny of my facebook account should I die.
+75 Is it possible to unlink a computer from dropbox without having direct access to that computer?
+10 Is there a deal between facebook and google, because it seems that when I'm logged into my gmail accounts, facebook can detect this?
+24 Is it an option to silently follow someone on twitter without them being aware of this.
+84 Is there a kind of content that's left out from Google search?
+68 I'd like to find web pages on which a particular image I have is located, how do I do this?
+40 How can I see the folder in which a google document is located.
+38 Filtering messages in gmail with respect to time.
+31 I'd like to have an instance of trello on a private server.
+2 Can I add some custom styles to google docs?
+82 Is it possible to access the US version of google search even though I live elsewhere?
+121 I've made a new google account, can I import contacts from my old one?
+16 Is there an option in trello to import a large task list from say a csv or something?
+54 How does gmail thread mails?
+17 Is it possible to search gmail with a disjunction of two conditions?
+37 Do google spreadsheets support links that include information about which sheet should be active.
+108 Downloading and backing up my private messages from facebook.
+70 Subtitling someone elses video on youtube.
+103 Listening to radio online.
+11 Is it possible to filter messages without a label in gmail.
+120 What is the easiest way to get how far it is from point A to point B using google maps?
+12 Where does your facebook account go after your death?
+63 Having multiple dropbox accounts on the same box.
+61 Ordering data in google sheets with respect to values in some column?
+60 I'd like to send a link to exactly a particular spot on google maps to my friend, how can I do that?
+79 What is archiving in gmail?
+108 Is it possible to download all of my messages from facebook?
+3 Making gmail text strikethrough.
+4 I have two spreadsheets on google docs is it possible to reference their cells via links?
+102 I'd like to be able to share my favourites settings across different browsers?
+110 I find the sound that notifies you of something in gho very irritating, is there a way to get rid of it?
+79 How are gmail mails archived?
+5 Can I format font in google docs using markdown.
+117 How could i deliberately create a gmail mail that is spam according to google's filters?
+1 I don't want my facebook account any more how do I delete it.
+79 Where does mail I archive in gmail actually go?
+94 Can I make a separate gmail category for mails coming from the calendar?
+25 What are the options of locally backing up my twitter data?
+43 I have lots of inboxes on gmail but I only care about my primary one, how can I make search look only there.
+28 I'd like to view videos from the same youtuber. I could use a playlist but surely there must be a faster way.
+72 I need to find a message that is archived, can I restrict my search to look only in archived mail?
+34 Determining who removed me from their friends list on facebook.
+118 Is there a way to add a small text box beneath an image in google docs with a description?
+105 How do I download all the text I have in my google chat?
+21 Is there a way to enforce google to omit osme results from my personal google search.
+33 Is it possible to share the exact search results of a google query?
+79 What does the archive operation on gmail do anyway?
+26 Contacting someone on github.
+118 Inserting a caption beneath a picture in google docs.
+114 I'd like to recursively set ownership on google drive, is this possible?
+47 How can I perform a full backup of my gmail account.
+106 How can I search for a string containing specific chars such as + or - on google search?
+105 I need to download my chat logs from google, how do i do this?
+8 How can I get syntax highlighting in google docs.
+57 Singling out mails in gmail where I am the sole recipient?
+40 I got a direct link to a google spreadsheet but I need the name of the folder where it's located, how can I get this quickly?
+2 I have some ideas for a new style in my google documents, can I add it somehow?
+112 Keeping records of books and movies via a web app.
+84 Are there some pages that google omits from it's indexing procedure.
+47 Creating a private backup of my gmail mails.
+16 What import options does trello support for lists of tasks?
+41 I'm really interested in who has been accessing my github repo, is there a way to get an overview of these users?
+34 How do I search for the person who canceled his friendship with me on facebook.
+60 When linking to maps from google can I pick a particular spot to link to?
+2 Where is the option to add new styles to google documents?
+100 Find a time to schedule meetings via a web app.
+74 Adding activities aranged on facebook to my google calendar.
+27 Is there a way to attach to a new mail an attachment received in another mail?
+92 I'd like to download an entire directory from dropbox, how do I do it?
+49 As soon as I pause a youtube video the buffering is halted, is this normal?
+22 I'd like to delete a list in trello, what is the way?
+55 Flagging a card as done in trello (without moving it).
+76 Is there a way to incorporate position information into a link to a Google doc that im sending?
+94 How do I filter out calendar notifications in gmail?
+99 How does facebook find friends to recommend to me?
+30 Retaining the formatting of my code when copying into gmail.
+36 What is wolfram alpha used for?
+111 When you search for a name on facebook, how is the result list generated?
+96 Conceal some of my contacts in the gmail chat list.
+103 Is there an online app where I can have playlists with my favourite songs and listen to them online?
+74 Is it possible to import events from facebook into my calendar in gmail?
+2 Is it possible to add new styles to google documents.
+97 Is there a way to know if the recipient has read my mail?
+39 Does youtube support including starting point information into links to its videos?
+89 I want to locally host some software that has similar functionality to google docs, is there any software like this?
+21 I'd like to have a list of sites that are not allowed to appear in my search results, how can I do this?
+6 How can I copy just the text from gmail but ignore the special font styles.
+42 Finding mails i forgot to reply to in gmail.
+47 Archiving gmail mails locally.
+97 Finding out if the receiver has read the mail that i sent.
+73 Is there a way to ensure I get e mail notifications when someone writes something on his twitter?
+41 Finding out from where users are accessing my github repo.
+67 I'd like to introduce bibliographic references to my google docs, how do I do this?
+116 Inserting into my gmail contact list a person in the CC field of a mail i got.
+21 I need some results to be removed from my results on google. What can I do about this?
+15 I'm scared that all my trello data will be lost, how can i back it up?
+123 Is there a threat of malicious users eavesdroping my files while they are being transfered to dropbox?
+23 Is it possible to make google use the exact words that I typed in.
+111 What happens behind the scenes when zou search for a name on facebook?
+109 Monitor access rights for my google drive directories?
+96 I use google chat a lot, but I'd like to hide some of my contacts from the contact list, is there an option for this?
+102 Is there a way to share bookmarks across different computers?
+113 Making google docs save my documents less often?
+110 Is there a way to turn off the notification alert sound in google hangouts?
+87 Is there a master list of public trello boards?
+68 Searching the web using an image as a query.
+99 I keep getting friendship suggestions from fb, how does it come up with them?
+7 I'd like to store a local backup of my favourite youtube video. Is this possible?
+45 When searching in google drive, can I look only in a specific folder.
+28 I know a great guy on youtube, I want to play all his videos one after the other, how do I go about this?
+93 Can I search for the initial commit to my github repo.
+49 Is there a bug on youtube, because my videos stop buffering as soon as I hit the pause button?
+53 A particular task for which I have a trello card can not start until another task is done, is there away to model this in trello?
+86 Is it possible to remove entries from my github activity feed?
+25 Can I take extra precautions to ensure that my messages on twitter won't be lost.
+26 Is it possible to communicate with a particular user on github.
+107 Translation is done much faster when several people can collaborate, is there a website to suppor this?
+106 I have some program code with special chars that I want to search for on google but the results are really bad, what can I do?
+16 Does trello support importing from csv?
+45 How can I search within a directory on gd?
+71 I'd like to label some of my outgoing mails in gmail as urgent, can this be done?
+43 Limiting gmail search to the main inbox.
+51 Gmail won't let me send executable files as attachments, is there an option around this?
+62 Is it possible to find the point in time when my subscription to a youtube channel started.
+45 Is it possible to look for files only in one folder of google drive.
+32 How do I narrow down my search on tweets to those published by a specific user.
+95 Sending a mail on a timer in gmail?
+57 I'd like to find mails on gmail that we're not sent to anyone else but me.
+96 Hiding contacts from hangouts chat?
+65 I'd like to know how big my gmail mails are so I can delete the biggest ones.
+13 Can I forward more than one mail in gmail?
+46 I have a lot of mails to search in gmail, i'd like to have more than 20 results show in the result list.
+111 What is the idea behind people search on facebook?
+103 How can I listen to radio online?
+102 Moving my bookmarks to a new computer.
+97 I've sent an important mail and I'd really like to know if the receiver has read it? Is there any way to tell?
+47 Downlading all my mails from gmail for a local backup.
+53 Managing interdependencies between trello cards.
+18 Is it possible to embed a google spreadsheet into another google document?
+113 Is it possible to prevent google from automatically saving my document every few secs?
+115 Polishing my programming and coding skills in an online setting.
+95 I need to put off sending a mail I've written for a few hours, what's the easiest way to do that?
+0 Making the letters i write on github striked through.
+83 How do I stop videos from starting immediately when i click on them on youtube.
+24 How could I become a follower of a person on twitter without them finding out, like ever.
+77 Setting up gmail so that the default reply address was the one from the incoming mail.
+50 I'd like to completely delete all my mails in gmail, what's the fastest way to do this?
+119 PGP in gmail.
+19 How do I undo the archive operation in gmail?
+58 As a college student i can't afford microsoft office, are google docs a viable alternative?
+116 Can I add the recipient of an e-mail to my gmail contacts?
+42 Determining for which of my mails a reply is missing.
+119 How do I make sure that my mails sent through gmail can't be read by third parties? Any advice?
+92 Can I download a whole folder via the Dropbox web?
+62 Where can I see when I first subscribed to a youtube channel?
+48 Is there a way to send a fax over the internet?
+90 Youtube automatically generated subtitles for a video, can I download those?
+4 I need to reference a cell from another google sheets document in a cell in my current document, can this be done?
+115 Sites where there are online interpreters to test my code in.
+15 I'm a little paranoid my data from trello will get lost, how can I back it up easily.
+20 I sent a bcc mail to several people, now gmail has merged all responses, it's confusing! Can I somehow separate these?
+23 How can I force google to use the exact words I type in.
+31 I want to have my own instance of trello, is this possible?
+95 What are my options if I want for a mail I've written in gmail to be sent to the recepient on a later date?
+101 I'd like to draw a sequential diagram, is there an online tool for this.
+34 I want to identify the person who ceased to be my fb friend.
+94 I'd like to consider the mails coming from google calendar separately from the rest, can I have a special label for them?
+64 Do I have a guarantee that posts I put on facebook will stay private within my circle of friends?
+87 Where can I find what public boards does trello have to offer?
+52 Is there a possibility to see all quora answers without registering?
+29 Can I create a direct link to zip (without view) in google drive.
+8 Do google documents support syntax coloring.
+67 After a cite a paper how do I add its reference to the end of the document in google docs?
+17 How can I use logical expressions on multiple criteria when searching gmail?
+48 What would you recommend as a solution for sending faxes over the internet?
+75 Deleting dropbox from a computer remotely.
+91 Can a person who is not a member of fb (nor willing to become one) somehow see the pictures I upload?
+95 Is it possible to send an e-mail with a delay on gmail?
+70 Can I add subtitles to a youtube video that is not mine?
+85 I've accidentally set up a computer to be trusted by google two factor authentication, how do I revoke this trust?
+119 I'm very worried someone might read my important mails, what security features does gmail offer?
+32 Finding a tweet amoung the tweets of a single user on twitter.
+67 How can I add a bibliography to my google docs?
+62 I'm a subscriber on a channel on youtube, I wonder for how long, how can I find out?
+97 Is it possible to find out if my mail was read.
+83 I despise the fact that youtube videos start immediately after I click on them, is there some fix for this?
+89 Is there an alternative solution similar to google docs that I could host locally?
+29 Is there a way to make google drive links provide download and not a preview of the file contents.
+31 Is trello an exclusively online service or can I buy it and host it privately?
+0 How to make font strikethrough on github.
+56 How can I export a set of mails for all persons I received mail from?
+41 How can I track traffic for my github repo?
+30 I lose indentation of code that I copy into a mail on gmail, how can I keep the code formatting.
+58 Is office a lot better than google docs, where can I find a good comparison?
+63 Is it possible to have more than one Dropbox account on the same computer.
+124 While in most other editors I can just type two hyphens to get an em-dash in google docs this doesnt work?
+69 Does dropbox offer any kind of storage space analysis on my files?
+100 Are there any easy to use apps on the web to schedule meetings?
+73 I'd like to recieve an mail every time a specific twitter user writes a new post.
+43 Searching only the primary inbox in gmail.
+19 I archived a gmail mail by mistake, can undo this?
+105 I'd like to export my logs from google chat, how do I do this?
+88 I want people to first ask for my permission before associating me with things on fb, how do I ensure this?
+30 Whenever I c/p code into my mails in gmail I lose all the indentation and keyword special markup, is there a better way to do it?
+99 What is the idea behind friend recommendations on facebook?
+41 How can I determine the locations and profiles of users that are accessing my github repo.
+117 Purposefully create a mail that will be considered spam by gmail.
+41 I'd like to know from where the majority of traffic for my github repository is coming from, can this be done?
+82 Why is google.com constantly changing to my local country domain, I don't want this, I want to see the USA version of the results.
+31 I don't like my data being in the trello cloud, can I have a trello deployment locally.
+51 Is it possible to mask an exe file so that gmail will let me attach it to a mail?
+92 Downloading an entire folder from dropbox.
+12 If somebody dies, what's gonna happen to their fb account?
+88 I'm getting tagged all the time in pictures on facebook, can I enforce people to ask me first?
+88 Is it possible to enforce people to ask for my permission before associating stuff with me on facebook?
+108 I'd like to save all my facebook private messages on my computer locally, how can I do this?
+108 I want to make a backup of all my facebook messaes, how do I do this?
+68 Can you recommend a good reverse image search engine?
+113 I'm a bit annoyed by google docs being saved extremely often, is there an option to fix this?
+44 I have a non google mailing address, can I still participate in googlegroups?
+37 If I need to send to some people the second sheet of my google spread sheet, is there a way to generate a link to exactly that sheet?
+104 Can I list the files that dropbox is syncing at this moment?
+68 I need a search engine that would take an image as input and find similar images, is there such a thing?
+73 I want to make it so I get an e-mail when a particular user tweets something.
+96 Is it possible to hide (not block) contacts from hangouts chat list?
+55 What is the best way to specify that a trello card is finished?
+53 Does trello support of conditional workflows?
+110 Turning off GHO notification alert?
+85 I need to untrust a copmuter with google 2 factor auth asap, how can I do this?
